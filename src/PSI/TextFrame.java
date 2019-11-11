@@ -18,7 +18,7 @@ import javax.swing.event.CaretListener;
  *
  * @author User
  */
-public class TextFrame extends JFrame{
+public class TextFrame extends JFrame {
     private JTextField txtInput;
     private JTextField txtOutput;
     private JTextField txtKey;    
